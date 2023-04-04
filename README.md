@@ -2,7 +2,7 @@
 
 ## 如何使用
 
-前往`https://chls.github.io/s/{壢中官網公告ID}`即可
+前往`https://chlstw.github.io/s/{壢中官網公告ID}`即可
 
 ## 範例
 
